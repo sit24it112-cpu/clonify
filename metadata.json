@@ -1,0 +1,8 @@
+{
+  "name": "PS-23 Code Plagiarism Detection System",
+  "description": "AI-powered code similarity and plagiarism risk analysis platform supporting Python and Java with multi-feature lexical, AST, and ML inference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
